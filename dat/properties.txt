@@ -1,0 +1,6 @@
+# H2 database URL for application with students
+databaseURL = jdbc:h2:tcp://localhost/~/bazaProjekt
+
+# H2 database credentials
+databaseUsername = student
+databasePassword = student

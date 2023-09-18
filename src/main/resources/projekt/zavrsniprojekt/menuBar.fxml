@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar fx:id="menu" maxWidth="872.0" minWidth="872.0" onMouseEntered="#receiveData" prefWidth="872.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projekt.zavrsniprojekt.PocetnaController">
+   <menus>
+      <Menu mnemonicParsing="false" text="Kategorija">
+         <items>
+            <MenuItem mnemonicParsing="false" onAction="#prikazKategorija" text="Pretraga" />
+            <MenuItem fx:id="unosKategorije" mnemonicParsing="false" onAction="#unosKategorija" text="Unos" />
+         </items>
+      </Menu>
+      <Menu mnemonicParsing="false" text="Igra">
+         <items>
+            <MenuItem mnemonicParsing="false" onAction="#prikazIgara" text="Pretraga" />
+            <MenuItem fx:id="unosIgre" mnemonicParsing="false" onAction="#unosIgara" text="Unos" />
+         </items>
+      </Menu>
+      <Menu mnemonicParsing="false" text="Platforma">
+         <items>
+            <MenuItem mnemonicParsing="false" onAction="#prikazPlatforma" text="Pretraga" />
+            <MenuItem fx:id="unosPlatforme" mnemonicParsing="false" onAction="#unosPlatforma" text="Unos" />
+         </items>
+      </Menu>
+      <Menu mnemonicParsing="false" text="Prodajno Mjesto">
+         <items>
+            <MenuItem mnemonicParsing="false" onAction="#prikazProdajnihMjesta" text="Pretraga" />
+            <MenuItem fx:id="unosProdajnogMjesta" mnemonicParsing="false" onAction="#unosProdajnihMjesta" text="Unos" />
+         </items>
+      </Menu>
+      <Menu mnemonicParsing="false" text="Publisher">
+         <items>
+            <MenuItem mnemonicParsing="false" onAction="#prikazPublishera" text="Pretraga" />
+            <MenuItem fx:id="unosPublishera" mnemonicParsing="false" onAction="#unosPublishera" text="Unos" />
+         </items>
+      </Menu>
+      <Menu fx:id="user" mnemonicParsing="false" text="Korisnik" visible="false">
+         <items>
+            <MenuItem mnemonicParsing="false" onAction="#odjava" text="Odjava" />
+         </items></Menu>
+   </menus>
+</MenuBar>

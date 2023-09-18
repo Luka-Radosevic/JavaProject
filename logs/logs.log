@@ -1,0 +1,30 @@
+2023-02-13 21:37:35,488 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške pri ažuriranju kategorije!
+2023-02-13 21:50:52,177 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške pri ažuriranju kategorije!
+2023-02-14 21:09:38,820 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške pri ažuriranju kategorije!
+2023-02-14 21:47:49,943 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:48:33,160 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:49:20,905 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:56:27,800 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:57:03,907 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:57:05,224 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:57:15,205 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:57:16,837 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:57:17,644 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:58:36,330 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 21:59:26,946 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 22:02:36,383 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške u radu s bazom podataka
+2023-02-14 22:25:05,789 ERROR [JavaFX Application Thread] p.i.BazaPodatakaException [BazaPodatakaException.java:19] Došlo je do pogreške pri ažuriranju platforme!
+2023-02-14 22:57:20,255 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:65] Kategorija Akcijaažurirana!
+2023-02-14 23:07:35,465 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:66] Kategorija Akcija ažurirana!
+2023-02-14 23:16:42,083 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:65] Kategorija Akcija ažurirana!
+2023-02-14 23:16:51,524 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:65] Kategorija Trile ažurirana!
+2023-02-15 16:54:46,008 INFO [JavaFX Application Thread] p.z.MainScreen [UnosPublisheraController.java:60] Publisher test ažuriran!
+2023-02-15 18:10:03,769 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:65] Kategorija Horor ažurirana!
+2023-02-15 18:10:29,708 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:65] Kategorija Strašno ažurirana!
+2023-02-15 18:12:23,769 INFO [JavaFX Application Thread] p.z.MainScreen [UnosKategorijaController.java:65] Kategorija Horror ažurirana!
+2023-02-15 22:00:15,157 INFO [JavaFX Application Thread] p.z.MainScreen [UnosPublisheraController.java:60] Publisher logitech ažuriran!
+2023-02-15 22:17:18,177 INFO [JavaFX Application Thread] p.z.MainScreen [UnosIgaraController.java:129] Kategorija dwdds ažurirana!
+2023-02-15 22:17:30,151 INFO [JavaFX Application Thread] p.z.MainScreen [UnosIgaraController.java:129] Kategorija dwdds ažurirana!
+2023-02-15 22:23:13,690 INFO [JavaFX Application Thread] p.z.MainScreen [UnosIgaraController.java:129] Igra COD ažurirana!
+2023-02-15 22:35:19,541 INFO [JavaFX Application Thread] p.z.MainScreen [UnosIgaraController.java:129] Igra COD ažurirana!
+2023-02-15 22:35:26,447 INFO [JavaFX Application Thread] p.z.MainScreen [UnosIgaraController.java:129] Igra COD ažurirana!

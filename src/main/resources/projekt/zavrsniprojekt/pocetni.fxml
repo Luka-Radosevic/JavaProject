@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="872.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projekt.zavrsniprojekt.PocetnaController">
+   <top>
+      <fx:include fx:id="menuBar" source="menuBar.fxml" />
+   </top>
+   <center>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Dobrodošli u &#10;zaigrani katalog!&#10;&#10;Odaberite jednu od&#10;opcija s vrha&#10;&#10;" textAlignment="CENTER" wrappingWidth="186.13671875" BorderPane.alignment="CENTER">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+   </center>
+</BorderPane>
